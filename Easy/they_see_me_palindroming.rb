@@ -1,0 +1,1 @@
+puts (s = get.chomp) == s.split("").reverse.join() ? "Yes" : "No"

@@ -1,0 +1,1 @@
+(1..gets.to_i).each {||puts [*(1..(n=gets.to_i))].map{|m|m*2**(n-1)}.inject(:+)}

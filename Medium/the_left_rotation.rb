@@ -1,0 +1,1 @@
+puts (r = (gets.chomp.split().map(&:to_i))[1]) != nil ? gets.chomp.split().rotate(r).join(" ") : ""

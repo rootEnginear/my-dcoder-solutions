@@ -1,0 +1,1 @@
+puts (n = gets.to_i), *([*(2..10)].map{|i|i*n})

@@ -1,0 +1,1 @@
+puts gets.chomp.split("").reverse.join().to_i

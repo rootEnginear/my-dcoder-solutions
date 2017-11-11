@@ -1,0 +1,1 @@
+puts (n = (gets.chomp).index(gets.chomp)) != nil ? n : "-1";

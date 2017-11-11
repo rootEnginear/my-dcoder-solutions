@@ -1,0 +1,1 @@
+puts (g = gets.chomp.split().map(&:to_i).inject(:+)) == (s = gets.chomp.split().map(&:to_i).inject(:+)) ? "None 0" : g > s ? "Garry " + (g-s).to_s : "Sharry " + (s-g).to_s
