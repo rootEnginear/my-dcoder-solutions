@@ -1,0 +1,1 @@
+puts (b = gets.chomp).index("1"*6) != nil || b.index("0"*6) != nil ? "Bad" : "Good"

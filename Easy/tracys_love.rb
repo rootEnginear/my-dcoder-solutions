@@ -1,0 +1,1 @@
+puts (n = gets.chomp.split().map(&:to_i)).inject(:+) == 6 || n.max - n.min == 6 ? "Love" : "Hate"

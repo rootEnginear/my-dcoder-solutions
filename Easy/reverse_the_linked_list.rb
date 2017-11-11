@@ -1,0 +1,1 @@
+puts (gets.chomp.split().reverse)[1..-1].join(" ")

@@ -1,0 +1,1 @@
+puts "Dc" + "o"*gets.to_i + "der"

@@ -1,0 +1,1 @@
+puts (m = gets.chomp.split().map(&:to_i))[0]**2 + m[1]**2 > m[2]**2 + m[3]**2 ? "B" : "A"
