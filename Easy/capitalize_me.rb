@@ -1,1 +1,1 @@
-puts gets.chomp.split().map{|w| w[0].upcase + w[1..-1]}.join(" ")
+puts gets.chomp.split().map{|w| w.capitalize}.join(" ")

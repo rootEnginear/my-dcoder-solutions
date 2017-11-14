@@ -1,0 +1,1 @@
+puts gets.chomp.scan(/[aeiou]/i).length

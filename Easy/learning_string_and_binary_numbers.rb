@@ -1,0 +1,1 @@
+puts (s=gets.chomp.split())[0].index(s[1]) == nil ? "0" : "1"

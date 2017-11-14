@@ -1,0 +1,1 @@
+puts [*((n = gets.chomp.split().map(&:to_i))[0]..n[1])].map{|i|i*i}.inject(:+)

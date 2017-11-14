@@ -1,0 +1,1 @@
+puts [*((n=gets.chomp.split().map(&:to_i))[0]..n[1])].map{|m| m%n[2]==0? 1:0}.inject(:+)

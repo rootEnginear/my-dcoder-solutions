@@ -1,0 +1,1 @@
+puts gets.chomp.gsub(/z/,'`').gsub(/Z/,'@').split("").map{|c|(c.ord+1).chr}.join()

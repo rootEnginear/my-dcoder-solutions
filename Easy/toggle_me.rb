@@ -1,0 +1,1 @@
+puts gets.chomp.split("").map{|c|c==c.upcase ? c.downcase : c.upcase}.join()

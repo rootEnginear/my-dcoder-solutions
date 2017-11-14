@@ -1,0 +1,1 @@
+puts (v=[*(2..n=gets.to_i)].reduce(1,:*)/[*(2..n-2)].reduce(1,:*)) == 1? 0 : v

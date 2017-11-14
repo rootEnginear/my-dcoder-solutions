@@ -1,0 +1,1 @@
+(0..(s = gets.chomp).length-1).each {|n| puts s[0..n]}

@@ -1,0 +1,1 @@
+puts (n =gets.chomp.split().map{|i|i=="11"? 1 : i.to_i}.inject(:+)) > 21 ? 0 : n

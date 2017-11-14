@@ -1,0 +1,1 @@
+puts (s = gets.chomp.split().map(&:to_i).inject(:+)/3) <= 60? 'F' : s<=70? 'D' : s<=80? 'C' : s<=90? 'B':'A'

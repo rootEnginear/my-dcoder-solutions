@@ -15,45 +15,45 @@ Great! feel free to send me pull requests
 - [x] Learning Factorials with Loop/Recursion
 - [x] How many weeks
 - [x] The shortest Path Algo(Simple)
-- [ ] The BlackJack with conditions
-- [ ] Learning Prime numbers with Loop/Recursion
-- [ ] Learning sorting numbers with if else
-- [ ] Learning String and binary numbers
+- [x] The BlackJack with conditions
+- [x] Learning Prime numbers with Loop/Recursion
+- [x] Learning sorting numbers with if else
+- [x] Learning String and binary numbers
 - [x] Dcooooooooooder Fan
 - [x] The light Switch
 - [x] Learn Sum of numbers
-- [ ] Sum of squares
+- [x] Sum of squares
 - [x] Use loops to draw patterns(Pyramid)
-- [ ] The Rock, Paper, Scissor Game
-- [ ] The Triangle Game
+- [x] The Rock, Paper, Scissor Game
+- [x] The Triangle Game
 - [x] The sum of Array
 - [x] The War of Problem Setters
-- [ ] Avik and his Girlfriend's Necklace
+- [x] Avik and his Girlfriend's Necklace
 - [x] They see me Palindroming
-- [ ] Toggle Me!
-- [ ] The irritating Students
+- [x] Toggle Me!
+- [x] The irritating Students
 - [x] Reverse me
 - [x] The Predictor
 - [ ] Let's get GCD
 - [ ] The closest to Average
-- [ ] The Vowel Counter
-- [ ] Find me the divisor count
-- [ ] Square of squares
+- [x] The Vowel Counter
+- [x] Find me the divisor count
+- [x] Square of squares
 - [x] Capitalize me
-- [ ] I'll be the next
-- [ ] The Report Card!
+- [x] I'll be the next
+- [x] The Report Card!
 - [x] The Secure function : Xr
 - [x] Exponentia!
 - [x] Binary to Decimal
 - [x] The Floating circle
 - [x] I don't like Repetition
 - [x] The bit flipper
-- [ ] The coding Challenges
+- [x] The coding Challenges
 - [x] First Half!!
 - [x] Reverse The Linked list
 - [x] Find the eldest brother!
 - [x] Tracy's love
-- [ ] Equable Triangles
+- [x] Equable Triangles
 - [x] Tables
 - Medium
 - [ ] Learning even odds with Strings and Loops
@@ -63,7 +63,7 @@ Great! feel free to send me pull requests
 - [ ] The divisibility Test
 - [ ] String - Half of the half
 - [ ] Learn sequences fun way
-- [ ] Anything You Can Do, I Can Do Better
+- [x] Anything You Can Do, I Can Do Better
 - [x] I need equality
 - [ ] The Game of Power
 - [ ] The Big Multiplication
@@ -97,7 +97,7 @@ Great! feel free to send me pull requests
 - [ ] Password Valdator!
 - [ ] Reverse Everything.
 - Hard
-- [ ] The Cool Numbers
+- [x] The Cool Numbers
 - [ ] Fit Me In
 - [x] The boring Sets
 - [ ] Play with Sequences and Subsequence

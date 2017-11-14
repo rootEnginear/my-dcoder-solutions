@@ -1,0 +1,1 @@
+puts (n=gets.to_i) == Math.sqrt(n.abs)**2 ? "YES" : "NO"
