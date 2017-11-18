@@ -1,0 +1,1 @@
+puts (b = gets.to_i.to_s(2)).index("1"*6) != nil || b.index("0"*6) != nil ? "Bad" : "Good"

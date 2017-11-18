@@ -34,8 +34,8 @@ Great! feel free to send me pull requests
 - [x] The irritating Students
 - [x] Reverse me
 - [x] The Predictor
-- [ ] Let's get GCD
-- [ ] The closest to Average
+- [x] Let's get GCD
+- [x] The closest to Average
 - [x] The Vowel Counter
 - [x] Find me the divisor count
 - [x] Square of squares
@@ -58,7 +58,7 @@ Great! feel free to send me pull requests
 - Medium
 - [ ] Learning even odds with Strings and Loops
 - [ ] Learning String with Pig Latin
-- [ ] Learning Powers with Loops
+- [x] Learning Powers with Loops
 - [ ] The inquire
 - [ ] The divisibility Test
 - [ ] String - Half of the half
@@ -70,8 +70,8 @@ Great! feel free to send me pull requests
 - [x] The Last Man survived
 - [ ] Prime numbers : My friends
 - [x] The pascal triangle
-- [ ] The Predictor(Enhanced)
-- [ ] Play with Strings
+- [x] The Predictor(Enhanced)
+- [x] Play with Strings
 - [x] Get the median
 - [ ] The \^\_\^ String
 - [ ] The \^\_\^ -\_- String
@@ -81,21 +81,21 @@ Great! feel free to send me pull requests
 - [ ] Profit Matters!
 - [x] The Social Media Experiment!
 - [ ] Let's make Arrays allies.
-- [ ] The one and only
+- [x] The one and only
 - [ ] The greater numbers
 - [ ] The simplest compression
 - [ ] Count trailing zeroes in n!
 - [x] The Game of Brackets (simple)
 - [ ] Find that pair!
 - [x] Number of the Beast
-- [ ] MOM!! I wanna be unique.
-- [ ] The Number Pyramid!
+- [x] MOM!! I wanna be unique.
+- [x] The Number Pyramid!
 - [ ] Only you can complete me.
 - [x] The left Rotation
 - [x] Where am I!!
 - [x] The 2's Complement
 - [ ] Password Valdator!
-- [ ] Reverse Everything.
+- [x] Reverse Everything.
 - Hard
 - [x] The Cool Numbers
 - [ ] Fit Me In
@@ -103,7 +103,7 @@ Great! feel free to send me pull requests
 - [ ] Play with Sequences and Subsequence
 - [ ] Great Power comes with great responsibility
 - [ ] Arrays and Merging
-- [ ] The alphabet pool
+- [x] The alphabet pool
 - [ ] The Prime Search
 - [ ] Find the majority element in array.
 - [x] The Game of Brackets

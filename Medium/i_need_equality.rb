@@ -1,1 +1,1 @@
-puts gets.chomp.split("").sort.join("") == gets.chomp.split("").sort.join("") ? "Yes" : "No"
+puts gets.chomp.split("").sort.join() == gets.chomp.split("").sort.join() ? "Yes" : "No"

@@ -3,5 +3,5 @@
 # For more information, plese see this awesome video: https://youtu.be/uCsD3ZGzMgE
 
 (1..gets.to_i).each {||
-	puts gets.to_i.to_s(2).split("").rotate.join("").to_i(2)
+	puts gets.to_i.to_s(2).split("").rotate.join().to_i(2)
 }
