@@ -1,7 +1,7 @@
 # My Dcoder Solutions
 I have been using [Dcoder](https://play.google.com/store/apps/details?id=com.paprbit.dcoder&utm_source=facebook&utm_medium=use_app&utm_campaign=use_app_campaign) for a while and also done some of the problems in Algo Yo. I make this repository to share my own solutions with the others. In any way, you should have done the problems by yourself before look into my solutions.
 
-## Warning -
+## Warning
 **I am a lazy guy.** So my solutions might be very short, simple, cheating, or unreadable. So, use it at your own risk.
 
 ## I have a better algorithm than you.
@@ -61,7 +61,7 @@ Great! feel free to send me pull requests
 - [x] Learning Powers with Loops
 - [ ] The inquire
 - [ ] The divisibility Test
-- [ ] String - Half of the half
+- [x] String - Half of the half
 - [ ] Learn sequences fun way
 - [x] Anything You Can Do, I Can Do Better
 - [x] I need equality
@@ -74,27 +74,27 @@ Great! feel free to send me pull requests
 - [x] Play with Strings
 - [x] Get the median
 - [ ] The \^\_\^ String
-- [ ] The \^\_\^ -\_- String
+- [x] The \^\_\^ -\_- String
 - [ ] The longest word.
 - [ ] Guess the Fibonacci number
 - [ ] Roots Roots Roots!
-- [ ] Profit Matters!
+- [x] Profit Matters!
 - [x] The Social Media Experiment!
-- [ ] Let's make Arrays allies.
+- [x] Let's make Arrays allies.
 - [x] The one and only
 - [ ] The greater numbers
-- [ ] The simplest compression
+- [x] The simplest compression
 - [ ] Count trailing zeroes in n!
 - [x] The Game of Brackets (simple)
 - [ ] Find that pair!
 - [x] Number of the Beast
 - [x] MOM!! I wanna be unique.
 - [x] The Number Pyramid!
-- [ ] Only you can complete me.
+- [x] Only you can complete me.
 - [x] The left Rotation
 - [x] Where am I!!
 - [x] The 2's Complement
-- [ ] Password Valdator!
+- [x] Password Validator!
 - [x] Reverse Everything.
 - Hard
 - [x] The Cool Numbers
@@ -105,5 +105,5 @@ Great! feel free to send me pull requests
 - [ ] Arrays and Merging
 - [x] The alphabet pool
 - [ ] The Prime Search
-- [ ] Find the majority element in array.
+- [x] Find the majority element in array.
 - [x] The Game of Brackets

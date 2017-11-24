@@ -1,0 +1,1 @@
+print (n=gets.chomp.gsub(/[\[\]]/,"").split(",").map(&:to_i)).length != 1? "[#{n.min},#{n.max}]" : "[#{n[0]}]"

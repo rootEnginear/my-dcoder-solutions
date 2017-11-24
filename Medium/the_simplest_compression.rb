@@ -1,0 +1,1 @@
+puts (t=(s=gets.chomp).split("").uniq.map{|i| "#{i}#{s.count(i)}"}.join().gsub("1","")).length >= s.length ? s : t

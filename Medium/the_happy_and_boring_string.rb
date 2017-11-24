@@ -1,0 +1,1 @@
+puts (a=(s=gets.chomp).scan(/\^\_(?=\^)/).length) > (b=s.scan(/\-\_(?=\-)/).length) ? "Cody is happy with Dcoder" : a==b ? "Cody doesn't know what to do" : "Cody wants to leave job"
