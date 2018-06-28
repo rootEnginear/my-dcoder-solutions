@@ -1,14 +1,13 @@
 # My Dcoder Solutions
-I have been using [Dcoder](https://play.google.com/store/apps/details?id=com.paprbit.dcoder&utm_source=facebook&utm_medium=use_app&utm_campaign=use_app_campaign) for a while and also done some of the problems in Algo Yo. I make this repository to share my own solutions with the others. In any way, you should have done the problems by yourself before look into my solutions.
-
-## Warning
-**I am a lazy guy.** So my solutions might be very short, simple, cheating, or unreadable. So, use it at your own risk.
-
-## I have a better algorithm than you.
-Great! feel free to send me pull requests
+I have been using [Dcoder](https://play.google.com/store/apps/details?id=com.paprbit.dcoder&utm_source=facebook&utm_medium=use_app&utm_campaign=use_app_campaign) for a while and also done some of the problems in Algo Yo. I make this repository to share my own solutions with the others. In any way, you should have done the problems by yourself before look into my solutions. Also, I am totally happy with your contributions, just send me a pull request!
 
 ## List of available solutions
 - Easy
+- [ ] Fare
+- [ ] Buy The Bundle
+- [ ] The Armstrong Number
+- [ ] Treasure Hunt
+- [ ] Help Cody
 - [x] Print Hello World
 - [x] Printing number using loop
 - [x] Learning User Input with Natural Numbers
@@ -43,7 +42,7 @@ Great! feel free to send me pull requests
 - [x] I'll be the next
 - [x] The Report Card!
 - [x] The Secure function : Xr
-- [x] Exponentia!
+- [ ] Exponentia! (3/4)
 - [x] Binary to Decimal
 - [x] The Floating circle
 - [x] I don't like Repetition
@@ -55,7 +54,10 @@ Great! feel free to send me pull requests
 - [x] Tracy's love
 - [x] Equable Triangles
 - [x] Tables
+
 - Medium
+- [ ] Word Numbers
+- [ ] Eric vs James
 - [ ] Learning even odds with Strings and Loops
 - [ ] Learning String with Pig Latin
 - [x] Learning Powers with Loops
@@ -96,7 +98,10 @@ Great! feel free to send me pull requests
 - [x] The 2's Complement
 - [x] Password Validator!
 - [x] Reverse Everything.
+
 - Hard
+- [ ] Equal Strings
+- [ ] Sherlock plays The Great Game
 - [x] The Cool Numbers
 - [ ] Fit Me In
 - [x] The boring Sets
